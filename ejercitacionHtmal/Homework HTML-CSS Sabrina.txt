@@ -1,0 +1,33 @@
+I. Cree una página HTML básica.
+  A. Cree el diseño básico para una página HTML usando html, head y body.
+  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
+  C. En el cuerpo, crea tres divs.
+    1. En el primer div crea:
+      * un tag h1 que contiene "Tu nombre".
+      * un tag h2 que contiene "Tu apellido".
+      * un tag h4 que contiene "tarea de HTML / CSS".
+    2. En el segundo div crea:
+      * un tag span que contiene texto que describe su comida favorita.
+      * un tag 'a' que se vincula a Google.
+      * un tag 'a' que se vincula a Facebook.
+    3. En el tercer div crea:
+      * una lista desordenada con tres elementos dentro de la lista(colores).
+      * una lista ordenada con tres tags img en cada elemento de la lista (imágenes de vehiculos)
+II Añade un poco de estilo
+  A. Cree una hoja de estilo externa a su documento HTML y nombrela style.css.
+  B. Asignar al primer div el id "firstDiv".
+  C. Asignar al segundo div el id "secondDiv".
+  D. Asignar al tercer div el id "thirdDiv".	
+  E. Asignar a todos los divs la clase "divClass".
+  F. Asignar al span que se encuentra dentro de su segundo div el id "spanId".
+  G. Agregue una regla de estilo a su elemento h1 cambiando el color del texto.
+  H. Agregue una regla de estilo a 'firstDiv' cambiando la altura a 600px y el ancho a 500px.
+  I. Agregue una regla de estilo a 'secondDiv' cambiando el color de fondo por el que quiera.
+  J. Agregue una regla de estilo a 'thirdDiv' cambiando el color de la fuente por el que quiera.
+  K. Cambie el tamaño de la fuente para 'spanId' a 18px.
+  L. Asignar al id 'spanId' un margen de 50px.
+  M. Asignar al id 'firstDiv' un relleno (padding) de 50px.
+  N. Asignar al id 'secondDiv' un borde con cualquier ancho de color y estilo que elija.
+  Ñ. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija distinto al anterior.
+  O. Asignar a la clase "divClass" una fuenta de letra que desee.
+III. Suba su trabajo a su repositorio de github.

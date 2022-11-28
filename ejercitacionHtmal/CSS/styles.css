@@ -1,0 +1,27 @@
+#firstDiv  h1{
+color: blue;
+}
+#firstDiv{
+    height: 600px;
+    width: 500px;
+    padding:50px ;
+}
+#secondDiv{
+    background-color: lightgrey;
+    border-color: aqua;
+    border-style:double;
+
+}
+#thirdDiv{
+  color: blue; 
+  border-color: burlywood; 
+  border-style: dashed;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+}
